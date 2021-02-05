@@ -1,0 +1,9 @@
+C:\Projetos\ExemploApi\ExemploAPi\ExemploAPi.Domain\bin\Debug\netcoreapp3.1\ExemploAPi.Domain.deps.json
+C:\Projetos\ExemploApi\ExemploAPi\ExemploAPi.Domain\bin\Debug\netcoreapp3.1\ExemploAPi.Domain.dll
+C:\Projetos\ExemploApi\ExemploAPi\ExemploAPi.Domain\bin\Debug\netcoreapp3.1\ExemploAPi.Domain.pdb
+C:\Projetos\ExemploApi\ExemploAPi\ExemploAPi.Domain\obj\Debug\netcoreapp3.1\ExemploAPi.Domain.csprojAssemblyReference.cache
+C:\Projetos\ExemploApi\ExemploAPi\ExemploAPi.Domain\obj\Debug\netcoreapp3.1\ExemploAPi.Domain.AssemblyInfoInputs.cache
+C:\Projetos\ExemploApi\ExemploAPi\ExemploAPi.Domain\obj\Debug\netcoreapp3.1\ExemploAPi.Domain.AssemblyInfo.cs
+C:\Projetos\ExemploApi\ExemploAPi\ExemploAPi.Domain\obj\Debug\netcoreapp3.1\ExemploAPi.Domain.csproj.CoreCompileInputs.cache
+C:\Projetos\ExemploApi\ExemploAPi\ExemploAPi.Domain\obj\Debug\netcoreapp3.1\ExemploAPi.Domain.dll
+C:\Projetos\ExemploApi\ExemploAPi\ExemploAPi.Domain\obj\Debug\netcoreapp3.1\ExemploAPi.Domain.pdb
